@@ -1,7 +1,1 @@
-
-
-## Resources
-
-
-
-## Download Learnings.apk from the above file
+Demo and intro : \href https://junglesafari.netlify.app/
